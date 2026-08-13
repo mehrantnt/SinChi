@@ -70,6 +70,6 @@ for see instruction and command, send help method in your bot whit out '!' , '#'
 
 ## Developers
 
-### [Mehran](https://t.me/sajjad_021)
+### [Mehran]
 
 Enjoy Your SinChi Bot!
